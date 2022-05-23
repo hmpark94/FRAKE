@@ -1,4 +1,3 @@
-!pip install networkx
 import streamlit
 import networkx as nx
 import FRAKE
