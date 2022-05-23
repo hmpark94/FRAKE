@@ -1,4 +1,5 @@
 import streamlit
+import networkx as nx
 import FRAKE
 
 st.title("Keyword Extraction Demo: FRAKE")
